@@ -1,4 +1,4 @@
-## Software Engineer/Team Leader at [Automattic VIP](https://wpvip.com)
+## Engineering Manager
 
 - 🔭 I’m currently working on Node.JS
 - 😄 Pronouns: He/Him
