@@ -1,3 +1,3 @@
-## Director of Engineering
-
-- Playing with Ruby on Rails, Arduino, Raspberry, IoT.
+- Coding in JavaScript/TypeScript, NodeJS
+- Interested in Arduino, Raspberry, IoT
+- Linux user since previous millennium 
