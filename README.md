@@ -1,10 +1,9 @@
-- Coding in JavaScript/TypeScript, NodeJS
-- Interested in Arduino, Raspberry, IoT
-- Linux user since the previous millennium
+A technology enthusiast
 
 ## Technologies and Tools
 
-![](https://img.shields.io/npm/v/npm.svg?logo=nodedotjs)
+![](https://img.shields.io/badge/code-JavaScript-blue?logo=javascript)
+![](https://img.shields.io/badge/framework-NodeJS-blue?logo=nodedotjs)
 ![](https://img.shields.io/badge/os-linux-blue?logo=linux)
 ![](https://img.shields.io/badge/shell-bash-blue?logo=gnubash)
 ![](https://img.shields.io/badge/editor-vscode-blue?logo=visualstudiocode)
