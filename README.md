@@ -1,4 +1,4 @@
-A technology enthusiast
+A lifetime geek, coding since childhood, leading teams to success.
 
 ## Technologies and Tools
 
