@@ -1,4 +1,4 @@
-A lifetime geek, coding since childhood, leading teams to success.
+A lifetime geek, nowadays hardly coding anymore.
 
 ## Technologies and Tools
 
